@@ -1,0 +1,9 @@
+psutil
+wmi
+py-cpuinfo
+GPUtil
+platformdirs
+rich
+tabulate
+pandas
+colorama
